@@ -15,7 +15,7 @@
   },
   "gypfile": true,
   "dependencies": {
-    "fuse-shared-library": "^1.0.2",
+    "fuse-shared-library": "git+https://github.com/k13-engineering/fuse-shared-library.git#7d1a1d7fa072b34d034f9d80a53d79e4150ffcb8",
     "nanoresource": "^1.3.0",
     "napi-macros": "^2.0.0",
     "node-gyp-build": "^4.2.0"
